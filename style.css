@@ -1,0 +1,75 @@
+/*start main*/
+body{margin:0;}
+.continer{padding-left:30px;}
+.opasty{}
+/*end main*/
+
+/*start header*/
+.header{}
+.header .silder{background-color:#191C1B;height:5px;}
+.header .navbar{background-color:#191C1B;width:20%;height:1845px;display:inline-block;float:left}
+.header .navbar div{background-image:url("http://store4.up-00.com/2017-07/150055330888761.png");height:150px;}
+.header .navbar ul{color:#fff;list-style:none;padding:20px 0 0 80px;}
+.header .navbar ul li{line-height:50px;padding-left:10px;}
+.header .navbar ul li:hover{background-color:#FF5D50;color:#fff;border-radius:3px;width:60%;height:50px;}
+.header .navbar a{text-decoration:none;color:#fff;}
+
+
+/*end header*/
+
+/*start feather*/
+.feather{overflow:hidden;padding-bottom:40px;}
+.feather .images{background-image:url("http://store4.up-00.com/2017-07/15005533089912.jpg");height:450px;}
+.feather .info{width:45%;float:left;padding:0 20px 0 10px;}
+.feather .info h2{color:#444;}
+.feather .info p{color:#555;}
+/*end feather*/
+
+/*start taco*/
+.taco{overflow:hidden;padding-bottom:50px;}
+.taco .image{float:left;width:40%}
+.taco .image img{width:90%;border-radius:5px;}
+.taco .ftaco h2{text-transform:uppercase;color:#444;}
+.taco .ftaco div:first-of-type{font-weight:bold;color:#444;}
+.taco .ftaco strong{background-color:#519100;padding:5px;border-radius:2px;color:#FFF;}
+.taco .ftaco p{color:#555;}
+.taco .ftaco button{padding:5px 15px 5px 15px;border:0;border-radius:3px;color:#fff;background-color:#FAB40C;font-weight:bold;font-size:14px;}
+.taco .ftaco button:hover{border:2px #FAB40C solid;background:0;color:#181C1C;}
+/*end taco*/
+
+/*start Tacofood*/
+.Tacofood{overflow:hidden;padding-bottom:30px;padding-top:30px;}
+.Tacofood .food{float:left;width:33.33333%;width:30%;padding:0 5px 0 5px;text-align:center; }
+.Tacofood .food img{border-radius:50%;border:10px #DCDADE solid;}
+.Tacofood .food h2{color:#444;}
+.Tacofood .food p{color:#555;}
+/*end Species*/
+
+/*start lists*/
+.lists{margin-bottom:30px;margin-top:30px;background-image:url("http://store6.up-00.com/2017-07/150055381221935.jpg");}
+.lists .tabopasty{text-align:center;background: rgba(0, 0, 0, 0.5);padding:50px 0;}
+.lists .tabopasty input:first-of-type{width:300px;height:25px;border-radius:5px;border:0.30px #B9B7BA solid;background: rgba(0, 0, 0, 0.1);color:#fff;display:block;margin-left:580px;margin-bottom:5px;}
+.lists .tabopasty input:first-of-type:hover{background: rgba(0, 0, 0, 0.0);}
+.lists .tabopasty input:last-of-type{padding:5px 7px;color:#fff;background-color:#E85221;border:0;border-radius:5px;font-weight:bold;}
+.lists .tabopasty input:last-of-type:hover{border:1px #E85221 solid;background:0;border-radius:10px;}
+
+/*end lists*/
+
+/*start contact*/
+.contact{}
+.contact .form{display:block;text-align:center;padding:20px;background-color:#121112;}
+.contact .form input{padding:10px 50px 10px 0;width:25%;border-radius:5px;background-color:#1C1B1C;border:0;}
+.contact .form textarea{width:29%;height:200px;background-color:#1C1B1C;border-radius:5px;border:0;font-size:18px;}
+.contact .form input,textarea{display:block;margin:20px 0 20px 35%;color:#EBE6ED;padding-left:15px;}
+.contact .form input:last-of-type{width:90px;padding:6px 12px 6px 11px;margin-left:550px;background-color:#618C55;color:#EBE6ED;font-weight:bold;transform:uppercase;}
+.contact .form input:last-of-type:hover{border:1px #618C55 solid;background:0;}
+
+/*start contact*/
+
+/*start footer*/
+.footer{background-color:#000;padding:5px 0;overflow:hidden;}
+.footer .icon{float:right;padding-right:15px;}
+.footer .info{color:#fff;padding-left:10px;font-size:15px;padding-top:5px;}
+.footer .icon,
+.footer .info{}
+/*end footer*/
